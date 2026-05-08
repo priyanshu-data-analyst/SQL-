@@ -51,7 +51,7 @@ The purpose of this repository is to demonstrate **hands-on SQL skills**, **logi
 
 ## 📬 Contact
 📧 Email: priyanshujob1726@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/priyanshu-gupta  
+💼 LinkedIn: https://www.linkedin.com/in/priyanshu-gupta-analyst/ 
 🐙 GitHub: https://github.com/priyanshu-data-analyst  
 
 ---
